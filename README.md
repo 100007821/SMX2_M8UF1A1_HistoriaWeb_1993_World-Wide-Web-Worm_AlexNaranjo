@@ -16,6 +16,7 @@ No se lanzó hasta marzo de 1994, momento en el que otros motores de búsqueda s
 La mayoría de los motores de búsqueda de la época se seleccionaron manualmente, pero WWWW rastreaba automáticamente los sitios y los guardaba en una base de datos, luego los relacionaba con las consultas de los usuarios. No se estrenaría hasta marzo de los próximos años.
 
 **¿Que es un gusano del sitio web?**
+
 Un gusano informático es un tipo de malware que propaga copias de sí mismo de una computadora a otra.
 
 **El primer World WIde Web Worm**
