@@ -11,10 +11,6 @@ No se lanzó hasta marzo de 1994, momento en el que otros motores de búsqueda s
 
 ![Web](https://github.com/100007821/SMX2_M8UF1A1_HistoriaWeb_1993_World-Wide-Web-Worm_AlexNaranjo/blob/main/world-wide-web-worm_jvm8-360x200.png)
 
-**¿Que diferenciaba World Wide Web al resto?**
-
-La mayoría de los motores de búsqueda de la época se seleccionaron manualmente, pero WWW rastreaba automáticamente los sitios y los guardaba en una base de datos, luego los relacionaba con las consultas de los usuarios. No se estrenaría hasta marzo de los próximos años.
-
 
 **El primer World WIde Web Worm**
 
